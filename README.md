@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
 </div>  
   
 
-### <div align="center">I'm Vishnu C R</div>  
+### <div align="center"> hi there I'm Vishnu C R</div>  
   
 
 <br/>  
